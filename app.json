@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "assignment-app",
+    "slug": "assignment-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c045d41a-86e1-4b24-8e16-5fbf722d2938"
+      }
+    }
+  },
+  "android":{
+"adaptiveIcon":{
+  "foregroundImage":"./assets/imagenotexisitng.png",
+  "backgroundColor":"#FFFFFF"
+}
+  },
+  "name": "assignment-app"
+}
